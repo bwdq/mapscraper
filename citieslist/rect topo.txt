@@ -1,0 +1,10 @@
+https://s3.eu-west-2.amazonaws.com/mapshow/1-O-35.html
+https://s3.eu-west-2.amazonaws.com/mapshow/15-01-70-10_Tallin-Helsinki.html
+https://s3.eu-west-2.amazonaws.com/mapshow/14-00-68_London-Paris.html
+https://s3.eu-west-2.amazonaws.com/mapshow/14-00-78_Birmingham.html
+https://s3.eu-west-2.amazonaws.com/mapshow/44-00-67_Portland.html
+https://s3.eu-west-2.amazonaws.com/mapshow/44-01-62_Ottawa.html
+https://s3.eu-west-2.amazonaws.com/mapshow/44-111_Chicago.html
+https://s3.eu-west-2.amazonaws.com/mapshow/44-113_StLouis.html
+https://s3.eu-west-2.amazonaws.com/mapshow/B-11_Berlin.html
+https://s3.eu-west-2.amazonaws.com/mapshow/B-111_Moscow.html

@@ -1,0 +1,7 @@
+Regexes for extracting city names from list of urls
+
+(.*mapshow.*)
+(.*jomi.*)
+https://s3.eu-west-2.amazonaws.com/mapshow/Boston1/ImageProperties.xml?t1583718778669n0
+dezoomify-rs.exe -l https://s3.eu-west-2.amazonaws.com/mapshow/Boston1/ImageProperties.xml?t1583718778669n0 Boston1
+show\/(.*?).htm
